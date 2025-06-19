@@ -1,5 +1,6 @@
 const CACHE_NAME = 'tic-tac-toe-cache-v1';
 const urlsToCache = [
+    '/pwa-tic-tac-toe/', // Cache the root of the PWA
     '/pwa-tic-tac-toe/index.html',
     '/pwa-tic-tac-toe/style.css', // Although CSS is inline, good practice to include if it were external
     '/pwa-tic-tac-toe/script.js', // Although JS is inline, good practice to include if it were external
