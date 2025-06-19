@@ -2,7 +2,7 @@
   "name": "Tic-Tac-Toe PWA",
   "short_name": "TicTacToe",
   "description": "An unbeatable Tic-Tac-Toe PWA game.",
-  "start_url": "/pwa-tic-tac-toe/index.html",
+  "start_url": "/pwa-tic-tac-toe/",
   "display": "standalone",
   "background_color": "#f0f0f0",
   "theme_color": "#007bff",
